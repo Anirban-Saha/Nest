@@ -32,7 +32,7 @@ The focus should be to develop a platform that allows users to keep track of the
 - Global Error Handling
 
 
-## Tech-Stack
+## TechStack
 
 **Client:** ReactJS, TailwindCSS, JavaScript
 
